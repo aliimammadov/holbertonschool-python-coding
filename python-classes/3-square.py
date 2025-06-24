@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""This module defines the Square class with size validation and area comp"""
+
+
 class Square:
     def __init__(self, size=0):
         self.size = size
