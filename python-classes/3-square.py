@@ -3,7 +3,10 @@
 
 
 class Square:
+"""el cekmir e"""
+
     def __init__(self, size=0):
+"""bakinin mehleleri"""
         self.size = size
 
     @property
