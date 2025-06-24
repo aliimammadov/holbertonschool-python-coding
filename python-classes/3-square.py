@@ -4,6 +4,7 @@
 It includes size validation and area computation.
 """
 
+
 class Square:
     """
     Represents a square.
